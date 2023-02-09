@@ -1,0 +1,8 @@
+.main{
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+}
+.main img{
+    width: 60%;
+}
